@@ -1,1 +1,1 @@
-I am working on creating a Netflix clone just to enhance my coding skills. 
+I am working on creating a Netflix clone just to enhance my coding skills. I've just created the landing page but i will keep updating the code as i complete each portion of code. i am writing the code in portions so that i keep updating it on GitHub.
